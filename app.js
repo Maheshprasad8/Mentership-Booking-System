@@ -2,7 +2,7 @@
 const facultyData = [
   {
       name: "Dr. Birmohan Singh",
-      experience: "30 years in Computer Science",
+      experience: "15 years in Computer Science",
       expertise: "System Analysis and Design,Computer Graphics",
       availableSlots: ["10:00 AM", "11:00 AM", "2:00 PM"],
       profileClass: "profile-1", // Class for styling
@@ -10,7 +10,7 @@ const facultyData = [
   },
   {
       name: "Dr. Damanpreet Singh",
-      experience: "25 years in Software Engineering",
+      experience: "10 years in Software Engineering",
       expertise: "Data Analysis, Big Data",
       availableSlots: ["9:00 AM", "1:00 PM","2:00PM"],
       profileClass: "profile-2", // Class for styling
@@ -18,15 +18,15 @@ const facultyData = [
   },
   {
       name: "Dr. Major Singh Goraya",
-      experience: "15 years in Data Structure",
+      experience: "9 years in Data Structure",
       expertise: "Data Structure and algroithm",
-      availableSlots: ["9:00 PM", "10:00 PM","11:30 PM"],
+      availableSlots: ["9:00 AM", "10:00 AM","11:30 AM"],
       profileClass: "profile-3", // Class for styling
       image: "Major.png" // Placeholder image
   },
   {
     name: "Dr. Manoj Sachan",
-    experience: "16 years in Operating System",
+    experience: "8 years in Operating System",
     expertise: "Object oriented programming",
     availableSlots: ["12:00 PM", "3:00 PM","4:00 PM"],
     profileClass: "profile-4", // Class for styling
@@ -43,7 +43,7 @@ const facultyData = [
   },
   {
     name: "Dr. Amar Nath",
-    experience: "14 years in Machine Learning",
+    experience: "5 years in Machine Learning",
     expertise: "ML,Data Science,AI",
     availableSlots: ["8:00 PM", "10:00 PM","2:00 PM"],
     profileClass: "profile-6", // Class for styling
@@ -51,25 +51,25 @@ const facultyData = [
   },
   {
     name: "Dr. Jagdeep Singh",
-    experience: "15 years in web development",
+    experience: "7 years in web development",
     expertise: "Machine Learning,Development",
-    availableSlots: ["11:00 PM", "3:00 PM","4:30 PM"],
+    availableSlots: ["11:00 AM", "3:00 PM","4:30 PM"],
     profileClass: "profile-7", // Class for styling
     image: "Jagdip.png"
   },
   {
     name: "Dr. Jatinder Pal Singh",
-    experience: "15 years in Deep Learning",
-    expertise: "Machine Learning,Deep Learning",
-    availableSlots: ["9:30 PM", "11:30 PM","4:30 PM"],
+    experience: "15 years in Cyber Security ",
+    expertise: " Computer Network,Cyber Security",
+    availableSlots: ["9:30 AM", "11:30 AM","4:30 PM"],
     profileClass: "profile-8", // Class for styling
     image: "Jp Sir.png"
   },
   {
     name: "Dr. Tajinder Singh",
-    experience: "15 years in Cyber Security",
-    expertise: "Computer Network,Cyber Security",
-    availableSlots: ["11:00 PM", "2:00 PM","4:30 PM"],
+    experience: "15 years in Deep Learning",
+    expertise: "Machine Learning,Deep Learning",
+    availableSlots: ["11:00 AM", "2:00 PM","4:30 PM"],
     profileClass: "profile-9", // Class for styling
     image: "Tejinder.png"
   },
@@ -93,7 +93,7 @@ const facultyData = [
     name: "Dr. Utkarsh",
     experience: "12 years in Web development",
     expertise: "App development",
-    availableSlots: ["10:00 PM", "1:30 PM","4:30 PM"],
+    availableSlots: ["10:00 AM", "1:30 PM","4:30 PM"],
     profileClass: "profile-12", // Class for styling
     image: "Utkarsh.png"
   },
